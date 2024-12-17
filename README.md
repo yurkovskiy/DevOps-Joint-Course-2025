@@ -26,4 +26,4 @@ Result has been inserted with ID: 34
 ```
 ### Куди записувати результати
 
-Всі результати виконання програм, а також контактну інформацію потрібно внести в [Google Form](https://forms.gle/VJ1WHEdmfzVUEw9q9)
+Всі результати виконання програм, а також контактну інформацію потрібно внести в [Google Form](https://forms.gle/DHWuFHqk6g9JgShQ8)
